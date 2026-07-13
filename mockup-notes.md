@@ -30,9 +30,15 @@ Clean Professional from `C:/Users/JD_PC/mockup-site-templates`, customized for a
 - Social presence: Facebook page for Purified-Air-Care, Roanoke
 - Years in service: since 1993, based on provided Facebook description context
 
+## Brand / Color Scheme
+
+- Palette matched to the company's Google Business Profile logo: deep navy background, bright EKG green (`#34d859`), cyan accent (`#22c7e6`), and a blue heart (`#3f74ff`).
+- The hero "logo card" and header mark recreate the logo's heartbeat wordmark and the "Medical-Grade Duct Cleaning" tagline in SVG/text.
+- The actual mascot artwork (duck) is NOT embedded — the pasted image was not available as a file. Drop the real logo in at `assets/logo.png` (or re-send it as a file) to place it on the site.
+
 ## Assumptions / Placeholders
 
-- No official logo file was downloaded or embedded. The `PAC` mark and airflow graphic are a visual identity/logo-refresh placeholder only.
+- The mascot logo art is not embedded yet; the hero card is a wordmark recreation standing in for it.
 - No AI-generated images were used.
 - Gallery boxes are clean placeholders for future approved real photos, before/after images, equipment photos, or social proof.
 - The contact form is visual only and not connected.
